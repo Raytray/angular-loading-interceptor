@@ -3,7 +3,7 @@
 */
 
 var App = angular.module("loading-interceptor", []);
-	.factory("LoadingInterceptor", function ($q, $rootScope) {
+	App.factory("LoadingInterceptor", function ($q, $rootScope) {
 
 		var httpCreations = 0;
 		var httpResolutions = 0;
