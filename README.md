@@ -9,10 +9,10 @@
 ## Usage
 First of all load this service in your project you can copy it from the file LoadingInterceptor.js or 
 1. ```var app = angular.module("your project", ["loading-interceptor"])```
-2. 'app.config(function ($httpProvider) {
+2. ```app.config(function ($httpProvider) {
       $httpProvider.interceptors.push("LoadingInterceptor")
-    });'
-3. '<div class="loader" ng-if="loading">Loading ...</div>'
+    });```
+3. ```<div class="loader" ng-if="loading">Loading ...</div>```
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
