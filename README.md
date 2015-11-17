@@ -7,7 +7,7 @@
  
  Via npm `npm install angular-loading-interceptor`
 ## Usage
-First of all load this service in your project you can copy it from the file LoadingInterceptor.js or 
+First of all load this service in your project you can copy it from the file `LoadingInterceptor.js` or if you install via bower or npm 
 
 1. ```var app = angular.module("your project", ["loading-interceptor"])```
 
