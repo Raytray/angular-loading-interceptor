@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Angular Loading Interceptor}
+# Angular Loading Interceptor
  Angular Loading Interceptor is library for loading in yout website until all http requests are done
 ## Installation
  Via bower 'bower install angular-loading-interceptor'
