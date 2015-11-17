@@ -23,6 +23,6 @@ First of all load this service in your project you can copy it from the file `Lo
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
