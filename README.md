@@ -19,10 +19,8 @@ First of all load this service in your project you can copy it from the file `Lo
 
 ## Contributing
 1. Fork it!
-2. Create your feature branch from remote `dev` branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+2. Create your feature branch from remote `dev`
+3. Push it
+4. Thank's for all your help :)
 </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
