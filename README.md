@@ -4,10 +4,8 @@
  Angular Loading Interceptor is library for loading in yout website until all http requests are done
 ## Installation
  Via bower `bower install angular-loading-interceptor`
- 
- Via npm `npm install angular-loading-interceptor`
 ## Usage
-First of all load this service in your project you can copy it from the file `LoadingInterceptor.js` or if you install via bower or npm 
+First of all load this service in your project you can copy it from the file `LoadingInterceptor.js` or if you install via bower
 
 1. ```var app = angular.module("myApp", ["loading-interceptor"])```
 
