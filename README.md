@@ -1,7 +1,7 @@
 <snippet>
   <content></content>
 # Angular Loading Interceptor
- Angular Loading Interceptor is library for loading in yout website until all http requests are done
+ Angular Loading Interceptor is library for loading in your website until all http requests are done
 ## Installation
  Via bower `bower install angular-loading-interceptor`
 ## Usage
