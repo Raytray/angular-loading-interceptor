@@ -30,7 +30,7 @@ App.factory("LoadingInterceptor", function ($q, $rootScope) {
         responseError: function (response) {
             httpResolutions ++;
             updateStatus();
-            return response;
+            return $q.reject(response);
         }
     };
 });
