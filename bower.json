@@ -1,6 +1,6 @@
 {
 	"name"	     : "angular-loading-interceptor",
-	"version"    : "0.0.1",
+	"version"    : "0.0.2",
 	"author"     : "Albi Zeka",
 	"description": "Angular service for loading interceptor",
 	"main"		 : "loadingInterceptor.js",
